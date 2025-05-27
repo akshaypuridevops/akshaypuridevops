@@ -84,7 +84,11 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 ## 🌐 Find Me Online
 
-[LinkedIn](https://linkedin.com/in/akshaypuri) | [Hashnode](https://hashnode.com/@akshaypuri) | [Email](mailto:akshay.puri@example.com)
+## 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Puri-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypuri)
+[![Hashnode](https://img.shields.io/badge/Hashnode-@akshaypuri-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@akshaypuri)
+[![Email](https://img.shields.io/badge/Email-akshay.puri@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshay.puri@example.com)
 
 ---
 
