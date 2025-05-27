@@ -25,35 +25,25 @@ I simplify complex infrastructure and accelerate deployments with modern DevOps 
 
 ## 🌟 Skills Progress
 
-<div>
-  <b>Cloud & Infrastructure:</b><br />
-  <img src="https://progress-bar.dev/90/?title=AWS" alt="AWS 90%" />  
-  <img src="https://progress-bar.dev/85/?title=Azure" alt="Azure 85%" />  
-  <img src="https://progress-bar.dev/80/?title=GCP" alt="GCP 80%" />
-</div>
+**Cloud & Infrastructure:**  
+![AWS](https://progress-bar.dev/90/?title=AWS)  
+![Azure](https://progress-bar.dev/85/?title=Azure)  
+![GCP](https://progress-bar.dev/80/?title=GCP)  
 
-<div>
-  <b>CI/CD & Automation:</b><br />
-  <img src="https://progress-bar.dev/90/?title=Jenkins" alt="Jenkins 90%" />  
-  <img src="https://progress-bar.dev/85/?title=GitHub Actions" alt="GitHub Actions 85%" />  
-  <img src="https://progress-bar.dev/80/?title=GitLab" alt="GitLab 80%" />
-</div>
+**CI/CD & Automation:**  
+![Jenkins](https://progress-bar.dev/90/?title=Jenkins)  
+![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions)  
+![GitLab](https://progress-bar.dev/80/?title=GitLab)  
 
-<div>
-  <b>Containerization & Orchestration:</b><br />
-  <img src="https://progress-bar.dev/90/?title=Docker" alt="Docker 90%" />  
-  <img src="https://progress-bar.dev/90/?title=Kubernetes" alt="Kubernetes 90%" />  
-  <img src="https://progress-bar.dev/75/?title=Helm" alt="Helm 75%" />
-</div>
+**Containerization & Orchestration:**  
+![Docker](https://progress-bar.dev/90/?title=Docker)  
+![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes)  
+![Helm](https://progress-bar.dev/75/?title=Helm)  
 
-<div>
-  <b>Monitoring & Security:</b><br />
-  <img src="https://progress-bar.dev/80/?title=Prometheus" alt="Prometheus 80%" />  
-  <img src="https://progress-bar.dev/80/?title=Grafana" alt="Grafana 80%" />  
-  <img src="https://progress-bar.dev/75/?title=SonarQube" alt="SonarQube 75%" />
-</div>
-
----
+**Monitoring & Security:**  
+![Prometheus](https://progress-bar.dev/80/?title=Prometheus)  
+![Grafana](https://progress-bar.dev/80/?title=Grafana)  
+![SonarQube](https://progress-bar.dev/75/?title=SonarQube)  
 
 ## 💼 Professional Highlights
 
