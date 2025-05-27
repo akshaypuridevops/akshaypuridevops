@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps Engineer** with 4+ years of experience building scalable cloud infrastructure, automating CI/CD pipelines, and managing containerized environments.  
-I simplify complex infrastructure and accelerate deployments with modern DevOps tools & best practices.
+I’m a passionate DevOps Engineer with 4+ years of experience in building scalable cloud infrastructure, automating CI/CD pipelines, and managing containerized environments. I simplify complex infrastructure and accelerate deployments using modern DevOps tools and best practices.
 
 ---
 
@@ -25,69 +24,44 @@ I simplify complex infrastructure and accelerate deployments with modern DevOps 
 
 ## 🌟 Skills Progress
 
-**Cloud & Infrastructure:**  
-![AWS](https://progress-bar.dev/90/?title=AWS)  
-![Azure](https://progress-bar.dev/85/?title=Azure)  
-![GCP](https://progress-bar.dev/80/?title=GCP)  
-
-**CI/CD & Automation:**  
-![Jenkins](https://progress-bar.dev/90/?title=Jenkins)  
-![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions)  
-![GitLab](https://progress-bar.dev/80/?title=GitLab)  
-
-**Containerization & Orchestration:**  
-![Docker](https://progress-bar.dev/90/?title=Docker)  
-![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes)  
-![Helm](https://progress-bar.dev/75/?title=Helm)  
-
-**Monitoring & Security:**  
-![Prometheus](https://progress-bar.dev/80/?title=Prometheus)  
-![Grafana](https://progress-bar.dev/80/?title=Grafana)  
-![SonarQube](https://progress-bar.dev/75/?title=SonarQube)  
-
-## 💼 Professional Highlights
-
-- 🚀 **Reduced deployment times by 60%** by designing optimized Jenkins & GitHub Actions pipelines.  
-- 🛠️ **Automated AWS infrastructure** provisioning with Terraform, cutting manual effort by 80%.  
-- 🐳 Led Kubernetes (EKS) orchestration ensuring **99.9% uptime** for production services.  
-- 🔄 Implemented **Blue-Green & Canary deployments**, minimizing downtime & risks.  
-- 🤖 Developed Shell & Python scripts improving operational efficiency by 40%.  
-- 🔒 Integrated SonarQube & Trivy for security scanning, reducing vulnerabilities by 20%.  
-- 📦 Managed artifact repos (Nexus, JFrog, Docker Hub, AWS ECR) to ensure secure deliveries.  
-- 🎓 Mentored junior engineers on Kubernetes & DevOps best practices.
+| Skill Area                    | Skill           | Proficiency           |
+|------------------------------|-----------------|----------------------|
+| **Cloud & Infrastructure**   | AWS             | ![90%](https://progress-bar.dev/90/?title=AWS)           |
+|                              | Azure           | ![85%](https://progress-bar.dev/85/?title=Azure)         |
+|                              | GCP             | ![80%](https://progress-bar.dev/80/?title=GCP)           |
+| **CI/CD & Automation**       | Jenkins         | ![90%](https://progress-bar.dev/90/?title=Jenkins)       |
+|                              | GitHub Actions  | ![85%](https://progress-bar.dev/85/?title=GitHubActions) |
+|                              | GitLab          | ![80%](https://progress-bar.dev/80/?title=GitLab)        |
+| **Containerization & Orchestration** | Docker     | ![90%](https://progress-bar.dev/90/?title=Docker)        |
+|                              | Kubernetes      | ![90%](https://progress-bar.dev/90/?title=Kubernetes)    |
+|                              | Helm            | ![75%](https://progress-bar.dev/75/?title=Helm)          |
+| **Monitoring & Security**    | Prometheus      | ![80%](https://progress-bar.dev/80/?title=Prometheus)    |
+|                              | Grafana         | ![80%](https://progress-bar.dev/80/?title=Grafana)       |
+|                              | SonarQube       | ![75%](https://progress-bar.dev/75/?title=SonarQube)     |
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 💼 Professional Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypuridevops&theme=dark" alt="GitHub Streak" width="400" />  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaypuridevops&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />  
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypuridevops&layout=compact&theme=dark" alt="Top Languages" width="400" />
-</p>
+- Designed and optimized CI/CD pipelines with Jenkins & GitHub Actions, reducing deployment times by 60%.  
+- Automated AWS infrastructure provisioning via Terraform, cutting manual setup by 80%.  
+- Led container orchestration efforts using Kubernetes (EKS), ensuring 99.9% uptime in production.  
+- Implemented Blue-Green & Canary deployment strategies minimizing downtime and deployment risk.  
+- Developed Shell & Python automation scripts, boosting operational efficiency by 40%.  
+- Integrated security scanning tools (SonarQube, Trivy), reducing vulnerabilities by 20%.  
+- Managed artifact repositories (Nexus, JFrog, Docker Hub, AWS ECR) ensuring secure delivery.  
+- Mentored junior engineers on Kubernetes and DevOps best practices via knowledge-sharing sessions.  
 
 ---
 
 ## 🌐 Find Me Online
 
-<p align="center">
-  <a href="https://linkedin.com/in/akshaypuridevops" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;
-  <a href="https://akshaypuri.hashnode.dev" target="_blank" rel="noopener noreferrer">
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-%23007ACC.svg?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a> &nbsp;
-  <a href="mailto:akshaypuri8380@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/akshaypuri) | [Hashnode](https://hashnode.com/@akshaypuri) | [Email](mailto:akshay.puri@example.com)
 
 ---
 
-## 💡 Quote
+> 💡 "Striving to simplify infrastructure, one deployment at a time."
 
-> _"Striving to simplify infrastructure, one deployment at a time."_
+
 
 
