@@ -7,8 +7,8 @@
 <h3 align="center">a passionate DevOps Engineer from India. I work in the Corporate IT sector, where I specialize in automation, infrastructure management, and monitoring. I’m dedicated to improving system reliability and streamlining deployment processes through modern DevOps practices.</a></h3>
 
 <p align="center">
-  <a href="https://github.com/Akshaypuri8380">
-    <img src="https://img.shields.io/github/followers/Akshaypuri8380?label=Follow&style=social" />
+  <a href="https://github.com/akshaypuridevops">
+    <img src="https://img.shields.io/github/followers/akshaypuridevops?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/akshay-puri-75058618a/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Puri-blue?logo=linkedin&style=flat-square" />
@@ -18,10 +18,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akshaypuri8380&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akshaypuridevops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshaypuri8380](https://github.com/Akshaypuri8380)  
+- 👨‍💻 All of my projects are available at [https://github.com/akshaypuridevops](https://github.com/akshaypuridevops)  
 - 💬 Ask me about **DevOps, CI/CD, Infrastructure Automation, Monitoring**  
 - 📫 How to reach me: **akshaypuri8380@gmail.com**
 
