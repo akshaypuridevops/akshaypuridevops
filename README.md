@@ -4,7 +4,7 @@
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center"a passionate DevOps Engineer from India. I work in the Corporate IT sector, where I specialize in automation, infrastructure management, and monitoring. I’m dedicated to improving system reliability and streamlining deployment processes through modern DevOps practices.</a></h3>
+<h3 align="center">a passionate DevOps Engineer from India. I work in the Corporate IT sector, where I specialize in automation, infrastructure management, and monitoring. I’m dedicated to improving system reliability and streamlining deployment processes through modern DevOps practices.</a></h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
