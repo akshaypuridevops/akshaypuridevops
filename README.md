@@ -71,18 +71,18 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 ## 💼 Professional Highlights
 
-- Designed and optimized CI/CD pipelines with Jenkins & GitHub Actions, reducing deployment times by 60%.  
-- Automated AWS infrastructure provisioning via Terraform, cutting manual setup by 80%.  
-- Led container orchestration efforts using Kubernetes (EKS), ensuring 99.9% uptime in production.  
-- Implemented Blue-Green & Canary deployment strategies minimizing downtime and deployment risk.  
-- Developed Shell & Python automation scripts, boosting operational efficiency by 40%.  
-- Integrated security scanning tools (SonarQube, Trivy), reducing vulnerabilities by 20%.  
-- Managed artifact repositories (Nexus, JFrog, Docker Hub, AWS ECR) ensuring secure delivery.  
-- Mentored junior engineers on Kubernetes and DevOps best practices via knowledge-sharing sessions.  
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) Designed and optimized **CI/CD pipelines** with Jenkins & GitHub Actions, reducing deployment times by **60%**.  
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) Automated **AWS infrastructure provisioning** via Terraform, cutting manual setup by **80%**.  
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) Led container orchestration efforts using Kubernetes (EKS), ensuring **99.9% uptime** in production.  
+- ![Blue-Green Deployment](https://img.icons8.com/ios-filled/24/000000/synchronize.png) Implemented **Blue-Green & Canary deployment** strategies minimizing downtime and deployment risk.  
+- ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) Developed **Shell & Python automation scripts**, boosting operational efficiency by **40%**.  
+- ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) Integrated security scanning tools (**SonarQube, Trivy**), reducing vulnerabilities by **20%**.  
+- ![Nexus](https://img.shields.io/badge/Nexus-2C2C2C?style=flat&logo=sonatype&logoColor=white) Managed artifact repositories (**Nexus, JFrog, Docker Hub, AWS ECR**) ensuring secure delivery.  
+- ![Mentoring](https://img.icons8.com/ios-filled/24/000000/teacher.png) Mentored junior engineers on Kubernetes and DevOps best practices via knowledge-sharing sessions.  
+
 
 ---
 
-## 🌐 Find Me Online
 
 ## 🌐 Find Me Online
 
