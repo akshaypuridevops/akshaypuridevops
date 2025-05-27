@@ -1,70 +1,72 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-# Hi, I'm Akshay Puri 👋
-
-DevOps Engineer passionate about building scalable, automated, and reliable infrastructure solutions.
+# 👋 Hi, I'm Akshay Puri — DevOps Engineer
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- Experienced in **CI/CD pipelines, Infrastructure as Code (Terraform, Ansible), Cloud (AWS, Azure)**, and Monitoring (Prometheus, Grafana).
-- Skilled in **Linux administration, Docker, Kubernetes basics, Jenkins, Git, and scripting (Python, Bash)**.
-- Strong problem solver focused on **automation, reliability, and performance optimization**.
-- Currently working in the **corporate IT sector** as a DevOps Engineer.
-- Actively looking for new challenges and opportunities in **DevOps / SRE / Cloud Engineering** roles.
+I’m a passionate **DevOps Engineer** with 4+ years of hands-on experience building and scaling robust cloud infrastructure, automating CI/CD pipelines, and managing containerized environments. I thrive on simplifying complex infrastructure and accelerating deployments using modern DevOps tools and best practices.
 
 ---
 
-### 📫 How to reach me
+### 🔧 Core Skills & Technologies
 
-Email: [akshaypuri8380@gmail.com](mailto:akshaypuri8380@gmail.com)  
-GitHub: [github.com/akshaypuridevops](https://github.com/akshaypuridevops)  
-LinkedIn: [linkedin.com/in/akshaypuridevops](https://linkedin.com/in/akshaypuridevops)
+| Cloud & IaC                | CI/CD & Automation        | Containers & Orchestration | Monitoring & Security     |
+|----------------------------|---------------------------|----------------------------|--------------------------|
+| AWS (EC2, S3, VPC, IAM, EKS, CloudFormation) | Jenkins, GitHub Actions, GitLab, Argo CD | Docker, Kubernetes (EKS)  | Prometheus, Grafana, Kibana, ELK Stack |
+| Terraform                  | Ansible                   | Helm                       | SonarQube, Trivy         |
+| Azure                      | Shell, Python scripting   |                            | OWASP Dependency Check   |
 
 ---
 
-### 🛠 Skills & Tools
+### 💼 Professional Highlights
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+- Designed and optimized CI/CD pipelines with Jenkins & GitHub Actions, reducing deployment times by **60%**.  
+- Automated AWS infrastructure provisioning via Terraform, cutting manual setup by **80%**.  
+- Led container orchestration efforts using Kubernetes (EKS), ensuring **99.9% uptime** in production.  
+- Implemented advanced deployment strategies: Blue-Green & Canary Releases minimizing downtime and deployment risk.  
+- Developed infrastructure automation scripts in Shell and Python, boosting operational efficiency by **40%**.  
+- Integrated security scanning (SonarQube, Trivy) to proactively reduce vulnerabilities by **20%**.  
+- Managed artifact repositories (Nexus, JFrog, Docker Hub, AWS ECR) for secure and streamlined delivery.  
+- Mentored teams on Kubernetes and DevOps best practices through knowledge-sharing sessions.
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaypuridevops&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaypuridevops&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaypuridevops&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 🔥 GitHub Contribution Streak
+### 🌐 Find Me Online
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaypuridevops&theme=vue-dark&hide_border=true)
-
----
-
-### 🚀 Open to Opportunities
-
-- Actively looking for **DevOps / SRE / Cloud Engineer roles**.
-- Available for **remote / hybrid / onsite** positions.
-- Ready to bring automation, monitoring, and cloud expertise to your team.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypuridevops)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-%23007ACC.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://akshaypuri.hashnode.dev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypuri8380@gmail.com)
 
 ---
 
-> "Striving to simplify infrastructure, one deployment at a time."
+### 💡 Quote
+
+> _"Striving to simplify infrastructure, one deployment at a time."_
 
 ---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" width="40" height="40" alt="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
+
 
 
