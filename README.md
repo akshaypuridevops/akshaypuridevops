@@ -25,26 +25,35 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 ## 🌟 Skills Progress
 
-### ☁️ Cloud & Infrastructure  
-![AWS](https://progress-bar.dev/90/?title=AWS&width=300&color=ffa500)  
-![Azure](https://progress-bar.dev/85/?title=Azure&width=300&color=007fff)  
-![GCP](https://progress-bar.dev/80/?title=GCP&width=300&color=ea4335)
+### ☁️ Cloud & Infrastructure
+| Skill | Logo | Proficiency |
+|-------|------|-------------|
+| AWS   | ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white) | ██████████░░ 90% |
+| Azure | ![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white) | █████████░░░ 85% |
+| GCP   | ![GCP](https://img.shields.io/badge/GCP-red?logo=googlecloud&logoColor=white) | ████████░░░░ 80% |
 
-### 🔁 CI/CD & Automation  
-![Jenkins](https://progress-bar.dev/90/?title=Jenkins&width=300&color=f03c2e)  
-![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions&width=300&color=000000)  
-![GitLab](https://progress-bar.dev/80/?title=GitLab&width=300&color=fc6d26)
+### 🔁 CI/CD & Automation
+| Skill | Logo | Proficiency |
+|-------|------|-------------|
+| Jenkins        | ![Jenkins](https://img.shields.io/badge/Jenkins-black?logo=jenkins&logoColor=white) | ██████████░░ 90% |
+| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions&logoColor=white) | █████████░░░ 85% |
+| GitLab         | ![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white) | ████████░░░░ 80% |
 
-### 🐳 Containerization & Orchestration  
-![Docker](https://progress-bar.dev/90/?title=Docker&width=300&color=2496ed)  
-![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes&width=300&color=326ce5)  
-![Helm](https://progress-bar.dev/75/?title=Helm&width=300&color=0f1689)
+### 🐳 Containerization & Orchestration
+| Skill | Logo | Proficiency |
+|-------|------|-------------|
+| Docker     | ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white) | ██████████░░ 90% |
+| Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white) | ██████████░░ 90% |
+| Helm       | ![Helm](https://img.shields.io/badge/Helm-blue?logo=helm&logoColor=white) | ███████░░░░░ 75% |
 
-### 📈 Monitoring & Security  
-![Prometheus](https://progress-bar.dev/80/?title=Prometheus&width=300&color=e6522c)  
-![Grafana](https://progress-bar.dev/80/?title=Grafana&width=300&color=f46800)  
-![SonarQube](https://progress-bar.dev/75/?title=SonarQube&width=300&color=4e9bce)
-
+### 🔒 Monitoring & Security
+| Skill | Logo | Proficiency |
+|-------|------|-------------|
+| Prometheus | ![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white) | ████████░░░░ 80% |
+| Grafana    | ![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana&logoColor=white) | ████████░░░░ 80% |
+| SonarQube  | ![SonarQube](https://img.shields.io/badge/SonarQube-blue?logo=sonarqube&logoColor=white) | ███████░░░░░ 75% |
+| Nexus      | ![Nexus](https://img.shields.io/badge/Nexus-darkgreen?logo=sonatype&logoColor=white) | ███████░░░░░ 75% |
+| Trivy      | ![Trivy](https://img.shields.io/badge/Trivy-purple?logo=aqua&logoColor=white) | ███████░░░░░ 75% |
 
 ---
 
