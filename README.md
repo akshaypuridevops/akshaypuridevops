@@ -30,14 +30,13 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 |-------|------|-------------|
 | AWS   | ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white) | ██████████░░ 90% |
 | Azure | ![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white) | █████████░░░ 85% |
-| GCP   | ![GCP](https://img.shields.io/badge/GCP-red?logo=googlecloud&logoColor=white) | ████████░░░░ 80% |
 
 ### 🔁 CI/CD & Automation
 | Skill | Logo | Proficiency |
 |-------|------|-------------|
 | Jenkins        | ![Jenkins](https://img.shields.io/badge/Jenkins-black?logo=jenkins&logoColor=white) | ██████████░░ 90% |
 | GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions&logoColor=white) | █████████░░░ 85% |
-| GitLab         | ![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab&logoColor=white) | ████████░░░░ 80% |
+| ArgoCD         | ![ArgoCD](https://img.shields.io/badge/ArgoCD-blue?logo=argo&logoColor=white) | ████████░░░░ 80% |
 
 ### 🐳 Containerization & Orchestration
 | Skill | Logo | Proficiency |
@@ -46,14 +45,27 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 | Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white) | ██████████░░ 90% |
 | Helm       | ![Helm](https://img.shields.io/badge/Helm-blue?logo=helm&logoColor=white) | ███████░░░░░ 75% |
 
-### 🔒 Monitoring & Security
-| Skill | Logo | Proficiency |
-|-------|------|-------------|
+### 📊 Monitoring & Observability
+| Tool | Logo | Proficiency |
+|------|------|-------------|
 | Prometheus | ![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white) | ████████░░░░ 80% |
 | Grafana    | ![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana&logoColor=white) | ████████░░░░ 80% |
-| SonarQube  | ![SonarQube](https://img.shields.io/badge/SonarQube-blue?logo=sonarqube&logoColor=white) | ███████░░░░░ 75% |
-| Nexus      | ![Nexus](https://img.shields.io/badge/Nexus-darkgreen?logo=sonatype&logoColor=white) | ███████░░░░░ 75% |
-| Trivy      | ![Trivy](https://img.shields.io/badge/Trivy-purple?logo=aqua&logoColor=white) | ███████░░░░░ 75% |
+| Kibana     | ![Kibana](https://img.shields.io/badge/Kibana-pink?logo=kibana&logoColor=white) | ███████░░░░░ 75% |
+| ELK Stack  | ![ELK](https://img.shields.io/badge/ELK-Stack-purple?logo=elastic&logoColor=white) | ███████░░░░░ 75% |
+
+### 🔐 Security
+| Tool | Logo | Proficiency |
+|------|------|-------------|
+| SonarQube | ![SonarQube](https://img.shields.io/badge/SonarQube-blue?logo=sonarqube&logoColor=white) | ███████░░░░░ 75% |
+| Trivy     | ![Trivy](https://img.shields.io/badge/Trivy-purple?logo=aqua&logoColor=white) | ███████░░░░░ 75% |
+| OWASP     | ![OWASP](https://img.shields.io/badge/OWASP-black?logo=owasp&logoColor=white) | ███████░░░░░ 75% |
+| Nexus     | ![Nexus](https://img.shields.io/badge/Nexus-2e3440?logo=sonatype&logoColor=white) | ███████░░░░░ 75% |
+
+### 🧠 Scripting & Programming
+| Skill | Logo | Proficiency |
+|-------|------|-------------|
+| Shell Scripting | ![Shell](https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white) | █████████░░░ 85% |
+| Python          | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) | ████████░░░░ 80% |
 
 ---
 
