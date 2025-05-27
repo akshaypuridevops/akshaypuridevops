@@ -25,25 +25,26 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 ## 🌟 Skills Progress
 
-### Cloud & Infrastructure
-![AWS](https://progress-bar.dev/90/?title=AWS)
-![Azure](https://progress-bar.dev/85/?title=Azure)
-![GCP](https://progress-bar.dev/80/?title=GCP)
+### ☁️ Cloud & Infrastructure  
+![AWS](https://progress-bar.dev/90/?title=AWS&width=300&color=ffa500)  
+![Azure](https://progress-bar.dev/85/?title=Azure&width=300&color=007fff)  
+![GCP](https://progress-bar.dev/80/?title=GCP&width=300&color=ea4335)
 
-### CI/CD & Automation
-![Jenkins](https://progress-bar.dev/90/?title=Jenkins)
-![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions)
-![GitLab](https://progress-bar.dev/80/?title=GitLab)
+### 🔁 CI/CD & Automation  
+![Jenkins](https://progress-bar.dev/90/?title=Jenkins&width=300&color=f03c2e)  
+![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions&width=300&color=000000)  
+![GitLab](https://progress-bar.dev/80/?title=GitLab&width=300&color=fc6d26)
 
-### Containerization & Orchestration
-![Docker](https://progress-bar.dev/90/?title=Docker)
-![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes)
-![Helm](https://progress-bar.dev/75/?title=Helm)
+### 🐳 Containerization & Orchestration  
+![Docker](https://progress-bar.dev/90/?title=Docker&width=300&color=2496ed)  
+![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes&width=300&color=326ce5)  
+![Helm](https://progress-bar.dev/75/?title=Helm&width=300&color=0f1689)
 
-### Monitoring & Security
-![Prometheus](https://progress-bar.dev/80/?title=Prometheus)
-![Grafana](https://progress-bar.dev/80/?title=Grafana)
-![SonarQube](https://progress-bar.dev/75/?title=SonarQube)
+### 📈 Monitoring & Security  
+![Prometheus](https://progress-bar.dev/80/?title=Prometheus&width=300&color=e6522c)  
+![Grafana](https://progress-bar.dev/80/?title=Grafana&width=300&color=f46800)  
+![SonarQube](https://progress-bar.dev/75/?title=SonarQube&width=300&color=4e9bce)
+
 
 ---
 
