@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Puri — DevOps Engineer
 
-<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/3o7aD4WZPmFq3xyiZC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
@@ -24,20 +24,25 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 ## 🌟 Skills Progress
 
-| Skill Area                    | Skill           | Proficiency           |
-|------------------------------|-----------------|----------------------|
-| **Cloud & Infrastructure**   | AWS             | ![90%](https://progress-bar.dev/90/?title=AWS)           |
-|                              | Azure           | ![85%](https://progress-bar.dev/85/?title=Azure)         |
-|                              | GCP             | ![80%](https://progress-bar.dev/80/?title=GCP)           |
-| **CI/CD & Automation**       | Jenkins         | ![90%](https://progress-bar.dev/90/?title=Jenkins)       |
-|                              | GitHub Actions  | ![85%](https://progress-bar.dev/85/?title=GitHubActions) |
-|                              | GitLab          | ![80%](https://progress-bar.dev/80/?title=GitLab)        |
-| **Containerization & Orchestration** | Docker     | ![90%](https://progress-bar.dev/90/?title=Docker)        |
-|                              | Kubernetes      | ![90%](https://progress-bar.dev/90/?title=Kubernetes)    |
-|                              | Helm            | ![75%](https://progress-bar.dev/75/?title=Helm)          |
-| **Monitoring & Security**    | Prometheus      | ![80%](https://progress-bar.dev/80/?title=Prometheus)    |
-|                              | Grafana         | ![80%](https://progress-bar.dev/80/?title=Grafana)       |
-|                              | SonarQube       | ![75%](https://progress-bar.dev/75/?title=SonarQube)     |
+### Cloud & Infrastructure
+![AWS](https://progress-bar.dev/90/?title=AWS)
+![Azure](https://progress-bar.dev/85/?title=Azure)
+![GCP](https://progress-bar.dev/80/?title=GCP)
+
+### CI/CD & Automation
+![Jenkins](https://progress-bar.dev/90/?title=Jenkins)
+![GitHub Actions](https://progress-bar.dev/85/?title=GitHub%20Actions)
+![GitLab](https://progress-bar.dev/80/?title=GitLab)
+
+### Containerization & Orchestration
+![Docker](https://progress-bar.dev/90/?title=Docker)
+![Kubernetes](https://progress-bar.dev/90/?title=Kubernetes)
+![Helm](https://progress-bar.dev/75/?title=Helm)
+
+### Monitoring & Security
+![Prometheus](https://progress-bar.dev/80/?title=Prometheus)
+![Grafana](https://progress-bar.dev/80/?title=Grafana)
+![SonarQube](https://progress-bar.dev/75/?title=SonarQube)
 
 ---
 
