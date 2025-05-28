@@ -88,7 +88,7 @@ I’m a passionate DevOps Engineer with 4+ years of experience in building scala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay%20Puri-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaypuri)
 [![Hashnode](https://img.shields.io/badge/Hashnode-@akshaypuri-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@akshaypuri)
-[![Email](https://img.shields.io/badge/Email-akshay.puri@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypuri8380@gmail.com)
+[![Email](https://img.shields.io/badge/Email-akshaypuri8380@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypuri8380@gmail.com)
 
 ---
 
